@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Babatunde Sunday Ogunlade | Official Campaign Portal 2027</title>
+<meta name="description" content="Official campaign portal of Hon. Babatunde Sunday Ogunlade, APC candidate for Ibarapa East State Constituency, Oyo State: agenda, experience, media and volunteer sign-up.">
+<meta name="theme-color" content="#052e1f">
+<link rel="canonical" href="https://babatundeogunlade.com/">
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://babatundeogunlade.com/">
+<meta property="og:title" content="Babatunde Sunday Ogunlade | Official Campaign Portal 2027">
+<meta property="og:description" content="Building the Future. Empowering the People. Advancing Ibarapa East.">
+<meta property="og:image" content="https://babatundeogunlade.com/876469f9-88b6-40e4-87c3-96419a4af639-1_all_1247.png">
+<meta name="twitter:card" content="summary_large_image">
+<!-- Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+<!-- Icons -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!-- Tailwind CSS Configuration -->
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config = {
+theme: {
+extend: {
+colors: {
+apc: {
+dark: '#052e1f',    // Deep institutional green
+main: '#0a432e',    // Primary green
+light: '#e8f2ed',   // Light background tint
+accent: '#106b4a',  // Brighter green for accents
+gold: '#c29b40'     // Gold accent from poster
+}
+},
+fontFamily: {
+sans: ['Inter', 'sans-serif'],
+serif: ['Lora', 'serif'],
+}
